@@ -5,7 +5,7 @@
 
 using namespace std;
 
-//bs ek cheej or krne de bss plleahsee abey karlee raaam seee
+
 class account {
 private:
 	string name;
